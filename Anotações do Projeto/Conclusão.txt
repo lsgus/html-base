@@ -1,0 +1,3 @@
+Tive problemas ao tentar criar o projeto diretamente no github, meu objetivo inicial
+era criar uma base em html e mudar os tamanhos em escala markdown, com isso mudei
+o projeto para uma música de meu gosto e deu tudo certo hahaha.
